@@ -9,7 +9,7 @@ while time <= 10001:
     if x == 5:
         y = random.randint(36)
         if y ==5:
-            z = 5
+            z = random.randint(36)
             if z ==5:
                 time = time + 1
                 a = 1/n
